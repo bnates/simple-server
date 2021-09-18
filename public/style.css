@@ -1,0 +1,21 @@
+header {
+  height: 3.5vw;
+  background: #12293b;
+}
+
+nav img {
+  width: 3.5vw;
+}
+
+main {
+  padding: 2vw 5vw;
+}
+
+h1 {
+  transition: 1s all;
+  margin-top: 10vw;
+  font-size: 5vw;
+  font-family: helvetica;
+  text-align: center;
+  color: #222;
+}
