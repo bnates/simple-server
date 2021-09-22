@@ -1,6 +1,6 @@
 html {
   /* height allocation for background gradient */
-  height: 250%;
+  height: 160vw;
 }
 
 body {
@@ -20,6 +20,10 @@ nav img {
 
 main {
   padding: 2vw 5vw;
+}
+
+em {
+  font-style: italic;
 }
 
 h1 {
