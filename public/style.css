@@ -1,6 +1,6 @@
 html {
   /* height allocation for background gradient */
-  height: 160vw;
+  height: 225vw;
 }
 
 body {
@@ -56,4 +56,9 @@ section article {
 
 section article img {
   width: 100%;
+}
+
+.extra img {
+  padding: 1vw;
+  box-sizing: border-box;
 }
